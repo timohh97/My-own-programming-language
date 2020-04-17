@@ -1,3 +1,3 @@
 while True:
-    text = input("Timo++>>")
+    text = input("omit$")
     print(text)
